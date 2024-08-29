@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("please type");
+Console.WriteLine("please type word");
 string input = Console.ReadLine();
 var reversedString = Reverse(input);
 
